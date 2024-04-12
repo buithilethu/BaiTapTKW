@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color:aquamarine
+}
+i {
+    color: pink;
+}
+
+i {
+    color:darkcyan;
+}
+
+p {
+    color:pink;
+}
+
+
+ b {
+    color:red !important;
+}
+
+p b {
+    color: gold;
+}
+
+li {
+    color: brown;
+}
+li{
+    color: pink;
+}
+
+#DeCuong {
+    color:chocolate;
+    font-size: larger;
+}
+
+.nd {
+    color: blueviolet;
+    font-size: small;
+}
+.Noidungquantrong{
+    color:aquamarine;
+}
